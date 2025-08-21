@@ -1,4 +1,16 @@
+const  music= new Audio('audio/1.mp3');
+//music.play();
 
+const songs = [
+    {
+        id: '1',
+        songName: `Anbil Avan <br>
+        <div class="subtitle">Devan Ekambaram</div>`,
+        poster: "image/img1.jpeg"
+
+
+
+    },
     {
         id: '2',
         songName: `Omana Penne <br>
